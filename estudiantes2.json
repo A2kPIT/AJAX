@@ -1,0 +1,14 @@
+{
+	"estudiantes": [
+		{	
+		    "nombre":"Pedro",
+		    "edad":31,
+		    "distrito":"San Juan de Lurigancho"
+		},
+		{
+		    "nombre":"Jorge",
+		    "edad":24,
+		    "distrito":"San Juan de Lurigancho"
+		}
+    ]
+}
